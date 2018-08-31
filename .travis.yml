@@ -4,3 +4,4 @@ deploy:
   provider: heroku
   api_key: 6ac79508-a568-4c31-9450-a741a38f4691
   app: damp-tor-23562
+script: npm run dev
